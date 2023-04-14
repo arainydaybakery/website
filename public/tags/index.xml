@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 雨中面包店</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on 雨中面包店</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 13 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disney Comics</title>
+      <link>http://example.org/tags/disney-comics/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/disney-comics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Don Rosa</title>
+      <link>http://example.org/tags/don-rosa/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/don-rosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scrooge McDuck</title>
+      <link>http://example.org/tags/scrooge-mcduck/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/scrooge-mcduck/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
