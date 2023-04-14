@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-baseURL = "https://melodic-hummingbird-732e5f.netlify.app/"
+baseURL = "/"
 theme = "congo" 
 defaultContentLanguage = "zh-cn"
 title = '雨中面包店'

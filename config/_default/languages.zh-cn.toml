@@ -2,7 +2,7 @@ languageCode = "zh-cn"
 languageName = "Chinese-Simplified"
 displayName = "ZH-CN"
 #isoCode = "zh-cn"
-htmlCode = "zh-cn"
+#htmlCode = "zh-cn"
 weight = 1
 rtl = false
 
@@ -17,7 +17,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "雨中面包店"
-  image = "/img/author.jpg"
+  image = "img/author.jpeg"
   headline = ""
   bio = ""
   # links = [
