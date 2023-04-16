@@ -46,6 +46,7 @@ enableCodeCopy = false
   showWordCount = false
   showTaxonomies = true
   showTableOfContents = true
+  showComments = true
 
 [list]
   showBreadcrumbs = true
