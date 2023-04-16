@@ -14,6 +14,3 @@ summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
-[params]
-  cusdis_app_id = "2968cd7b-945e-4346-8ce8-2c3fadd26849"
