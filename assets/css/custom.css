@@ -1,0 +1,25 @@
+blockquote {
+  /* font-family: 'Roboto Slab', serif; */
+  /* Add any other styling properties you want to apply to blockquotes */
+}
+
+/* hide quotes for quote blocks */
+
+.prose :where(blockquote p:first-of-type):not(:where([class~="not-prose"] *))::before {
+  content: "";
+}
+
+.prose :where(blockquote p:last-of-type):not(:where([class~="not-prose"] *))::after {
+  content: "";
+}
+
+/* Define a class for the image to apply the hover effect */
+.author-image {
+  transition: transform 0.3s ease-in-out;
+  transform-origin: center;
+}
+
+/* Apply the zoom effect on hover */
+.author-image:hover {
+  transform: scale(1.1); /* Adjust the value as needed (e.g., 1.2 for a larger zoom) */
+}
