@@ -17,6 +17,7 @@ blockquote {
 .author-image {
   transition: transform 0.3s ease-in-out;
   transform-origin: center;
+  margin-left: 16px;
 }
 
 /* Apply the zoom effect on hover */
