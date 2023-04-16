@@ -23,3 +23,8 @@ blockquote {
 .author-image:hover {
   transform: scale(1.1); /* Adjust the value as needed (e.g., 1.2 for a larger zoom) */
 }
+
+/* Adjust this to create more or less space */
+.space-below {
+  margin-bottom: 2rem;
+}
