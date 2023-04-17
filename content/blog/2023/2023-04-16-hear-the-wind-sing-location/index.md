@@ -63,6 +63,6 @@ tags:
 如果有时间，我忽然想把久负盛名的《深夜食堂》找来看一看，不知道是否能在小林薰身上找到《且听风吟》中“我”在平成年代的身影。无论如何，感谢创作者在影像化这样一部小说这个艰巨的任务上做出的努力。原始的年代（1970），对原始年代施加影响的年代（1968），文字的年代（1979），影像的年代（1982），一直到今天的回响……如此多重的时空，最后却能凝结在一些年轻与鲜活的脸上，这是难以想象的奢侈。
 
 <div style="display: flex;">
-  <div style="flex: 1; margin-right: 10px;"><img src="harbor.png" style="width: 50%; height: auto; object-fit: cover;"></div>
+  <div style="flex: 1; margin-right: 10px;"><img src="harbor.png" style="width: 80%; height: auto; object-fit: cover;"></div>
 </div>
 <div style="font-size: smaller; color: #888;">《且听风吟》，神户港，1982</div>

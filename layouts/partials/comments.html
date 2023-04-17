@@ -1,3 +1,11 @@
 <div id="cusdis_thread" data-host="https://cusdis-ecru.vercel.app" data-app-id="9a3ea5e7-8a92-4c9a-95d0-4de863973a73" data-page-id="{{ .File.UniqueID }}" data-page-url="{{ .Permalink }}" data-page-title="{{ .Title }}"></div>
-<script defer src="https://cusdis-ecru.vercel.app/js/widget/lang/zh-cn.js"></script>
-<script async defer src="https://cusdis-ecru.vercel.app/js/cusdis.es.js"></script>
+<script defer src="https://cusdis-ecru.vercel.app/js/widget/lang/zh-cn.js" onload="loadCusdis()"></script>
+<script>
+  function loadCusdis() {
+    var script = document.createElement('script');
+    script.src = 'https://cusdis-ecru.vercel.app/js/cusdis.es.js';
+    script.async = true;
+    script.defer = true;
+    document.body.appendChild(script);
+  }
+</script>
